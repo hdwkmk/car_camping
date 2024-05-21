@@ -67,8 +67,6 @@ flutter:
     - assets/restroom.csv
     - assets/images/sunny.jpeg
     - assets/images/restroom.webp
-    - assets/images/코스.jpg
-    - assets/images/지도.jpg
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
